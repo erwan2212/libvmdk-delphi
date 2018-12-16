@@ -6,7 +6,7 @@ uses
   madListModules,
   Forms,
   umain in 'umain.pas' {Form1},
-  libvmdk in '..\libvmdk.pas';
+  libvmdk in 'libvmdk.pas';
 
 {$R *.res}
 
