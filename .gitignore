@@ -1,0 +1,8 @@
+*.~*
+*.map
+*.vmdk
+*.dcu
+*.exe
+*.zip
+*.bak
+*.dll
