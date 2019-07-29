@@ -1,3 +1,5 @@
+//VMDK read only operations
+
 unit LibVMDK;
 
 {$IFDEF FPC}
